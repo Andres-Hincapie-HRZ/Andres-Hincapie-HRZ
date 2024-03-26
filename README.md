@@ -16,7 +16,6 @@
 - ✉ Contáctame: hrzandres009@gmail.com
 
 ---
-
 &emsp;
 <!--Languages and Tools Section-->       
 <h1 align="center">Lenguajes y Herramientas</h1>
