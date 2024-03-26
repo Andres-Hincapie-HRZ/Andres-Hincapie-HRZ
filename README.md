@@ -4,14 +4,14 @@
 
 -------------------
 &emsp;
-<h3 align="left">👋 ¡Hola! Soy Andrés Hincapié Ruiz, un apasionado por la tecnología y entusiasta creador de soluciones innovadoras. Con una mentalidad centrada en el diseño, me encanta desarrollar y diseñar soluciones tecnológicas que marcan la diferencia</h3>
+<h3 align="left">👋 ¡Hola! Soy Andrés Hincapié Ruiz, un desarrollador de software apasionado por la tecnología y la innovación. Con una sólida formación en desarrollo de software y múltiples títulos en ciberseguridad y robótica, me destaco por mi creatividad y capacidad para crear soluciones tecnológicas avanzadas</h3>
 &emsp;
 
 -------------------
 
-- 🔭 Mi Portafolio Web:[Portfolio website]()
+- 🔭 Mi Portafolio Web: [Portfolio website]()
 
-- 👨🏼‍💻 Desarrollar de software
+- 👨🏼‍💻 Desarrollador de software
 
 - ✉ Contáctame: hrzandres009@gmail.com
 
