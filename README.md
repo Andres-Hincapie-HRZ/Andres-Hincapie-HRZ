@@ -8,6 +8,15 @@
 &emsp;
 
 -------------------
+
+- 🔭 I’m currently working on [Portfolio website]()
+
+- 🌱 I’m currently learning **M E R N**
+
+- 📫 How to reach me **ravisolanki9322@gmail.com**
+
+---
+
 &emsp;
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
