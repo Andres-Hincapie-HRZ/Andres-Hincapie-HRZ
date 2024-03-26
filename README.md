@@ -13,8 +13,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tu_usuario" height="30" width="40" /></a>
 <a href="https://twitter.com/tu_usuario" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu_usuario" height="30" width="40" /></a>
-<a href="https://x.com/tu_usuario" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu_usuario" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tu_usuario" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tu_usuario" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arjunchaudhary27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arjunchaudhary27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arjun-singh-27-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="30" width="40" /></a>
 
