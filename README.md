@@ -1,4 +1,4 @@
-<h1 align="center">Hi Hola 👋, Soy Andrés Hincapié Ruiz</h1>
+<h1 align="center">Hola 👋, Soy Andrés</h1>
 
 <img src="Estudio de Fotografía Portada de Facebook.png" align="center" alt="berkeli header image">
 
