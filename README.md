@@ -9,11 +9,11 @@
 
 -------------------
 
-- 🔭 I’m currently working on [Portfolio website]()
+- 🔭 Mi Portafolio Web:[Portfolio website]()
 
-- 🌱 I’m currently learning **M E R N**
+- 👨🏼‍💻 Desarrollar de software
 
-- 📫 How to reach me **ravisolanki9322@gmail.com**
+- ✉ Contáctame: hrzandres009@gmail.com
 
 ---
 
