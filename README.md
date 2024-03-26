@@ -7,7 +7,8 @@
 <h3 align="left">👋 ¡Hola! Soy Andrés Hincapié Ruiz, un desarrollador de software apasionado por la tecnología y la innovación. Con una sólida formación en desarrollo de software y múltiples títulos en ciberseguridad y robótica, me destaco por mi creatividad y capacidad para crear soluciones tecnológicas avanzadas.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://www.instagram.com/tu_usuario" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tu_usuario" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arjunchaudhary27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arjunchaudhary27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arjun-singh-27-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-singh-27-" height="30" width="40" /></a>
 
