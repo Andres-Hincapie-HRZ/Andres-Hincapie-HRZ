@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://wa.me/tunumero" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="tu_numero" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tu_usuario" target="_blank">
+<a href="[https://www.facebook.com/tu_usuario](https://www.facebook.com/profile.php?id=100010860197391)" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tu_usuario" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tu_usuario" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tu_usuario" height="30" width="40" /></a>
