@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Andrés...</h1>
 
-<img src="Estudio de Fotografía Portada de Facebook.png" align="center" alt="berkeli header image">
+<img width="1280" height="729" alt="image" src="https://github.com/user-attachments/assets/6801e0ce-0ab4-4e78-8a39-05b248f09344" />
 
 -------------------
 &emsp;
