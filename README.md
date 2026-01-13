@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Andrés...</h1>
 
-<img width="1214" height="212" alt="image" src="https://github.com/user-attachments/assets/74296c9d-4cf6-44e2-a470-e7453de13273" />
+<img width="860" height="208" alt="image" src="https://github.com/user-attachments/assets/d035ebf8-6508-49d6-a884-eea17cfd53b7" />
 
 -------------------
 &emsp;
